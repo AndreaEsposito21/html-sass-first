@@ -1,0 +1,21 @@
+$title-color: red;
+$par-color: blue;
+$button-color: gray;
+$grandezza-standard: 10px;
+$text-uppercase: uppercase;
+
+h1, h2, h3, h4 {
+    color: $title-color;
+    text-transform: $text-uppercase;
+    margin-bottom: $grandezza-standard;
+}
+
+p {
+    color: $par-color;
+    margin: $grandezza-standard;
+}
+
+button {
+    color: $button-color;
+    padding: $grandezza-standard;
+}

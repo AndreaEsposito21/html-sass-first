@@ -1,1 +1,15 @@
+h1, h2, h3, h4 {
+  color: red;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
 
+p {
+  color: blue;
+  margin: 10px;
+}
+
+button {
+  color: gray;
+  padding: 10px;
+}
